@@ -1,0 +1,1 @@
+grocery_list = ["milk", 1, True]

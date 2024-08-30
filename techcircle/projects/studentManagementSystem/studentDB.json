@@ -1,0 +1,108 @@
+{
+    "henry": {
+        "subjects": {
+            "Mathematics": {
+                "score": 90,
+                "grade": "A1"
+            },
+            "English": {
+                "score": 74,
+                "grade": "B2"
+            },
+            "Biology": {
+                "score": 81,
+                "grade": "A1"
+            },
+            "Physics": {
+                "score": 85,
+                "grade": "A1"
+            },
+            "Chemistry": {
+                "score": 87,
+                "grade": "A1"
+            }
+        },
+        "average": 83.4,
+        "grades": "A1"
+    },
+    "marvel": {
+        "subjects": {
+            "Mathematics": {
+                "score": 70,
+                "grade": "B2"
+            },
+            "English": {
+                "score": 75,
+                "grade": "B2"
+            },
+            "Biology": {
+                "score": 87,
+                "grade": "A1"
+            },
+            "Physics": {
+                "score": 83,
+                "grade": "A1"
+            },
+            "Chemistry": {
+                "score": 85,
+                "grade": "A1"
+            }
+        },
+        "average": 80.0,
+        "grades": "A1"
+    },
+    "Caleb": {
+        "subjects": {
+            "Mathematics": {
+                "score": 70,
+                "grade": "B2"
+            },
+            "English": {
+                "score": 63,
+                "grade": "B3"
+            },
+            "Biology": {
+                "score": 89,
+                "grade": "A1"
+            },
+            "Physics": {
+                "score": 92,
+                "grade": "A1"
+            },
+            "Chemistry": {
+                "score": 78,
+                "grade": "B2"
+            }
+        },
+        "average": 78.4,
+        "grades": "A1"
+    },
+    "daniel": {
+        "subjects": {
+            "Mathematics": {
+                "score": 89,
+                "grade": "A1"
+            },
+            "English": {
+                "score": 62,
+                "grade": "B3"
+            },
+            "Biology": {
+                "score": 92,
+                "grade": "A1"
+            },
+            "Physics": {
+                "score": 92,
+                "grade": "A1"
+            },
+            "Chemistry": {
+                "score": 92,
+                "grade": "A1"
+            }
+        },
+        "average": 85.4,
+        "grades": "A1",
+        "age": 14,
+        "class": "ss1"
+    }
+}
